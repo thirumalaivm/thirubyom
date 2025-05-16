@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: "https://thirumalaivm.github.io/byom/"
+    url: "https://cyan-andeee-29.tiiny.site"
     type: "markup"
     suffix: ".html"
